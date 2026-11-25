@@ -33,4 +33,4 @@ An operating system that lives on any screen, made to give people back agency ov
 </tr>
 </table>
 
-Get in touch on [LinkedIn](https://www.linkedin.com/in/gabrielbaude/).
+Get in touch on [LinkedIn](https://www.linkedin.com/in/gabrielbaude/) or through [The Cube](https://thecu.be).
