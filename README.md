@@ -18,7 +18,7 @@ So I build small, local, readable systems: models you can see into, teach in pla
 
 <a href="https://msieur-gab.github.io/TermNL/demo/"><img src="images/termnl.png" width="100%" alt="TermNL's demo: asked how hot the board is, it answers with a gauge, then lists the Pictures folder"></a>
 
-**Start here:** [TermNL](https://github.com/msieur-gab/TermNL), a small language model you chat with to run a tiny Linux computer. It learns new skills from text files and asks before it acts. [Try it in your browser](https://msieur-gab.github.io/TermNL/demo/).
+**Start here:** [TermNL](https://github.com/msieur-gab/TermNL), a terminal you talk to. Say what you want in plain words, and it runs the board's real commands, but only those written in its skills: small text files anyone can write. When something is missing, it asks. When it isn't sure, it says so. Before anything risky, it waits for your yes. A small natural language understanding model, offline, trained on the board itself. [Try it in your browser](https://msieur-gab.github.io/TermNL/demo/).
 
 </td>
 <td width="50%" valign="top">
@@ -27,7 +27,7 @@ So I build small, local, readable systems: models you can see into, teach in pla
 
 <img src="images/symbios.png" width="100%" alt="The SymbiOS desk: TermNL answering about the board and playing music, the music player, a Meshtastic message">
 
-A pocket cloud: a computer that is only yours, running on very small boards (Orange Pi Zero 2W, Luckfox Lyra Zero W; it should run on a Raspberry Pi too) in a form that fits in your pocket. Plug it into a screen, use your phone as its companion, extend it with Meshtastic nodes. Small edge models run on the board for search and for turning voice into text, and TermNL is its terminal: everything it holds can be found by asking. The code will be public soon, once it can be reused and deployed on your own board.
+A pocket cloud: a computer that is only yours, on very small boards you carry and plug into a screen, with your phone as its companion. Small models on the board turn voice into text and make everything searchable, and TermNL is its terminal. The code will be public soon.
 
 </td>
 </tr>
