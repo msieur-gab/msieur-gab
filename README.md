@@ -23,11 +23,11 @@ So I build small, local, readable systems: models you can see into, teach in pla
 </td>
 <td width="50%" valign="top">
 
-### SymbiOS
+### [SymbiOS](https://github.com/msieur-gab/symbios)
 
-<p><img src="images/symbios.png" width="100%" alt="The SymbiOS desk: TermNL answering about the board and playing music, the music player, a Meshtastic message"></p>
+<p><a href="https://github.com/msieur-gab/symbios"><img src="images/symbios.png" width="100%" alt="The SymbiOS desk: TermNL answering about the board and playing music, the music player, a Meshtastic message"></a></p>
 
-An operating system that lives on any screen, made to give people back agency over their own computer. A very small board brings the mind (your files, notes, music, and small models for voice and search); the screen it is plugged into, a laptop, a TV, a phone, lends the body. Apart, each is half a computer; together, a whole one that is only yours: no cloud, no account, and only your phone can open it. TermNL is its terminal. The code will be public soon.
+An operating system that lives on any screen, made to give people back agency over their own computer. A very small board brings the mind (your files, notes, music, and small models for voice and search); the screen it is plugged into, a laptop, a TV, a phone, lends the body. Apart, each is half a computer; together, a whole one that is only yours: no cloud, no account, and only your phone can open it. TermNL is its terminal. The code is public: [an early preview for builders](https://github.com/msieur-gab/symbios), tested on the Orange Pi Zero 2W, with [a step-by-step guide](https://github.com/msieur-gab/symbios/blob/main/docs/getting-started.md).
 
 </td>
 </tr>
