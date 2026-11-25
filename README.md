@@ -25,7 +25,7 @@ So I build small, local, readable systems: models you can see into, teach in pla
 
 ### SymbiOS
 
-<img src="images/symbios.png" width="100%" alt="The SymbiOS desk: TermNL answering about the board and playing music, the music player, a Meshtastic message">
+<p><img src="images/symbios.png" width="100%" alt="The SymbiOS desk: TermNL answering about the board and playing music, the music player, a Meshtastic message"></p>
 
 An operating system that lives on any screen, made to give people back agency over their own computer. A very small board brings the mind (your files, notes, music, and small models for voice and search); the screen it is plugged into, a laptop, a TV, a phone, lends the body. Apart, each is half a computer; together, a whole one that is only yours: no cloud, no account, and only your phone can open it. TermNL is its terminal. The code will be public soon.
 
